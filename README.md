@@ -30,7 +30,7 @@ Este repositorio contiene todos mis avances, proyectos y experimentos que realiz
 
 ## 🤓 Sobre mí
 
-Soy Zeida, desarrolladora Full-Stack con un objetivo claro: ¡dominar el Front-End! Me apasiona el trabajo en equipo, la innovación y crear software que realmente facilite la vida de las personas.
+Soy Alexia, desarrolladora Full-Stack con un objetivo claro: ¡dominar el Front-End! Me apasiona el trabajo en equipo, la innovación y crear software que realmente facilite la vida de las personas.
 
 ---
 
@@ -47,4 +47,4 @@ Soy Zeida, desarrolladora Full-Stack con un objetivo claro: ¡dominar el Front-E
 
 Este repositorio seguirá creciendo y mejorando con el tiempo. Si tienes algún consejo, sugerencia, o simplemente quieres compartir una palabra de aliento, ¡eres más que bienvenido(a) a hacerlo!
 
---- 
+---
