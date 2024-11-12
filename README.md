@@ -48,3 +48,10 @@ Soy Zeida, desarrolladora Full-Stack con un objetivo claro: ¡dominar el Front-E
 Este repositorio seguirá creciendo y mejorando con el tiempo. Si tienes algún consejo, sugerencia, o simplemente quieres compartir una palabra de aliento, ¡eres más que bienvenido(a) a hacerlo!
 
 --- 
+
+## Comentarios y o sugerencias
+
+# Alba
+Hola Zeida! Me encanta tu read.me y no se me ocurre qué puedo aportar. 
+Lo único que te puedo sugerir es que pongas esta sección donde aparece
+mi propia y humilde aportación. ¡Está inmejorable! 
